@@ -1,0 +1,14 @@
+/Users/nicolasarena/Desktop/MyProject/bin/Debug/net8.0/MyProject
+/Users/nicolasarena/Desktop/MyProject/bin/Debug/net8.0/MyProject.deps.json
+/Users/nicolasarena/Desktop/MyProject/bin/Debug/net8.0/MyProject.runtimeconfig.json
+/Users/nicolasarena/Desktop/MyProject/bin/Debug/net8.0/MyProject.dll
+/Users/nicolasarena/Desktop/MyProject/bin/Debug/net8.0/MyProject.pdb
+/Users/nicolasarena/Desktop/MyProject/obj/Debug/net8.0/MyProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nicolasarena/Desktop/MyProject/obj/Debug/net8.0/MyProject.AssemblyInfoInputs.cache
+/Users/nicolasarena/Desktop/MyProject/obj/Debug/net8.0/MyProject.AssemblyInfo.cs
+/Users/nicolasarena/Desktop/MyProject/obj/Debug/net8.0/MyProject.csproj.CoreCompileInputs.cache
+/Users/nicolasarena/Desktop/MyProject/obj/Debug/net8.0/MyProject.dll
+/Users/nicolasarena/Desktop/MyProject/obj/Debug/net8.0/refint/MyProject.dll
+/Users/nicolasarena/Desktop/MyProject/obj/Debug/net8.0/MyProject.pdb
+/Users/nicolasarena/Desktop/MyProject/obj/Debug/net8.0/MyProject.genruntimeconfig.cache
+/Users/nicolasarena/Desktop/MyProject/obj/Debug/net8.0/ref/MyProject.dll
